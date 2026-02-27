@@ -1,0 +1,20 @@
+body {
+  background: #111;
+  color: white;
+  text-align: center;
+  font-family: Arial;
+}
+
+canvas {
+  border: 3px solid #00ffcc;
+  border-radius: 10px;
+}
+
+.dashboard {
+  margin-top: 20px;
+}
+
+select {
+  padding: 10px;
+  font-size: 16px;
+}
